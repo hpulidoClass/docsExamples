@@ -1,5 +1,5 @@
 
-Héctor Pulido Curriculum 2019/2020
+HÃ©ctor Pulido Curriculum 2019/2020
 =============
 
 Experiencia Laboral
@@ -11,7 +11,7 @@ Experiencia Laboral
 
 Titols Academics
 ---
-- **2012 - 2016** Educació secundaria obligatoria
+- **2012 - 2016** EducaciÃ³ secundaria obligatoria
 - **2016 - 2018** CFGM Sistemes microinformatics i xarxes
 - **2018 - Actualitat** CFGS Desenvolupament 
 
